@@ -1,15 +1,1 @@
-Feature work
-L1
-L2
-L3
-L7
-L8
-L4
-L5
-L10
-L11
-L14
-L15
-L11
-L12
-L13
+This is what rebasing looks like.
