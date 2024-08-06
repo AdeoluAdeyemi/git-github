@@ -2,5 +2,10 @@ Feature work
 L1
 L2
 L3
+<<<<<<< HEAD
 L7
 L8
+=======
+L4
+L5
+>>>>>>> test-merge-conflict
